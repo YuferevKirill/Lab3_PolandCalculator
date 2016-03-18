@@ -77,9 +77,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="OPZ.cpp" />
+    <ClCompile Include="TDStack.cpp" />
     <ClCompile Include="TStack.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="OPZ.h" />
+    <ClInclude Include="TDStack.h" />
     <ClInclude Include="TStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
