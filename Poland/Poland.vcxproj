@@ -80,11 +80,13 @@
     <ClCompile Include="OPZ.cpp" />
     <ClCompile Include="TDStack.cpp" />
     <ClCompile Include="TStack.cpp" />
+    <ClCompile Include="TTStack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OPZ.h" />
     <ClInclude Include="TDStack.h" />
     <ClInclude Include="TStack.h" />
+    <ClInclude Include="TTStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
